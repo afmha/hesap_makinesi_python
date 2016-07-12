@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-print("Hoşgeldiniz. Hesap Makinesi v1.4 \n Yapımcı: AFMHA \n afmha@hotmail.com | https://www.facebook.com/afmha")
+print("Hoşgeldiniz. Hesap Makinesi v1.5 \n Yapımcı: AFMHA \n afmha@hotmail.com | https://www.facebook.com/afmha")
 
 while (True):
     print("\n \n Lütfen seçim yapın:")
