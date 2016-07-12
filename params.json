@@ -1,6 +1,6 @@
 {
   "name": "Hesap Makinesi (Python)",
   "tagline": "Python ile yazılmış Hesap Makinesi",
-  "body": "### Hesap Makinesi (Python)\r\n",
+  "body": "### Hesap Makinesi (Python)\r\nPython ile yazılmış tekrarlayan Hesap Makinesi\r\n\r\nKullanılan fonksiyonlar :\r\n* if / elif / else\r\n* While\r\n* print()\r\n* input()\r\n* isinstance()\r\n* float(input())\r\n* int(input())\r\n\r\nYapılabilecek işlemler :\r\n* [1] => Toplama (Tekrarlı)\r\n* [2] => Çıkartma (Tekrarlı)\r\n* [3] => Çarpma (Tekrarlı)\r\n* [4] => Bölme (Tekrarlı)\r\n* [5] => Kalan alma (Tekrarlı)\r\n* [99] => Çıkış",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
