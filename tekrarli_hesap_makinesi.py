@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 print("Hoşgeldiniz. Hesap Makinesi v1.4 \n Yapımcı: AFMHA \n afmha@hotmail.com | https://www.facebook.com/afmha")
 
 while (True):
